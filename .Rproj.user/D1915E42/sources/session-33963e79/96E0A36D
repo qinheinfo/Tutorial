@@ -3,7 +3,7 @@
     "path": "~/Downloads/tut/paper/paper.qmd",
     "project_path": "paper/paper.qmd",
     "type": "quarto_markdown",
-    "hash": "4191911866",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1709760170181.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "46,0",
+        "cursorPosition": "1,28",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
