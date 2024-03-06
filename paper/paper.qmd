@@ -6,7 +6,6 @@ format: pdf
 bibliography: references.bib
 ---
 
-
 ```{r}
 #| include: false
 #| warning: false
@@ -15,7 +14,6 @@ bibliography: references.bib
 library(tidyverse)
 library(here)
 ```
-
 
 # Abstract
 
@@ -45,6 +43,4 @@ With changing response rates, there is a need for innovative nonresponse adjustm
 
 # Conclusion
 
-The decline in response rates across different modes of data collection presents ongoing challenges for survey research. Addressing these challenges requires a combination of methodological innovation and adherence to best practices in survey design and implementation.
-\newpage
-# References
+The decline in response rates across different modes of data collection presents ongoing challenges for survey research. Addressing these challenges requires a combination of methodological innovation and adherence to best practices in survey design and implementation. \newpage \# References
