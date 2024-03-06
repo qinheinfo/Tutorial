@@ -1,0 +1,143 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Williams",
+                    "given": "D."
+                },
+                {
+                    "family": "Brick",
+                    "given": "J. M."
+                }
+            ],
+            "container-title": "Journal of Survey Statistics and Methodology",
+            "id": "williams2018trends",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "186-211",
+            "title": "Trends in u.s. Face-to-face household survey nonresponse and level of effort",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "author": [
+                {
+                    "family": "Dutwin",
+                    "given": "D."
+                },
+                {
+                    "family": "Buskirk",
+                    "given": "T. D."
+                }
+            ],
+            "container-title": "Journal of Survey Statistics and Methodology",
+            "id": "dutwin2020telephone",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "353-380",
+            "title": "Telephone sample surveys: Dearly beloved or nearly departed? Trends in survey errors in the era of declining response rates",
+            "title-short": "Telephone sample surveys",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "author": [
+                {
+                    "family": "Daikeler",
+                    "given": "J."
+                },
+                {
+                    "family": "Bošnjak",
+                    "given": "M."
+                },
+                {
+                    "family": "Lozar Manfreda",
+                    "given": "K."
+                }
+            ],
+            "container-title": "Journal of Survey Statistics and Methodology",
+            "id": "daikeler2020web",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "513-539",
+            "title": "Web versus other survey modes: An updated and extended meta-analysis comparing response rates",
+            "title-short": "Web versus other survey modes",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "author": [
+                {
+                    "family": "Groves",
+                    "given": "R. M."
+                },
+                {
+                    "family": "Peytcheva",
+                    "given": "E."
+                }
+            ],
+            "container-title": "Public Opinion Quarterly",
+            "id": "groves2008impact",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "167-189",
+            "title": "The impact of nonresponse rates on nonresponse bias: A meta-analysis",
+            "title-short": "The impact of nonresponse rates on nonresponse bias",
+            "type": "article-journal",
+            "volume": "72"
+        },
+        {
+            "author": [
+                {
+                    "family": "Särndal",
+                    "given": "C.-E."
+                },
+                {
+                    "family": "Lundquist",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Journal of Survey Statistics and Methodology",
+            "id": "sarndal2014accuracy",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "361-387",
+            "title": "Accuracy in estimation with nonresponse: A function of degree of imbalance and degree of explanation",
+            "title-short": "Accuracy in estimation with nonresponse",
+            "type": "article-journal",
+            "volume": "2"
+        }
+    ],
+    "project_biblios": []
+}
